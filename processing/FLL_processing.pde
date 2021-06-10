@@ -1,3 +1,5 @@
+// Sanitary Water Recirculation System
+
 import processing.serial.*;
 
 Serial puerto; 
