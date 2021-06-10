@@ -1,4 +1,4 @@
-# Sanitary water recirculation system
+# Sanitary Water Recirculation System
 
 Prototype created to reduce the consumption of hot water in homes. The hardware is programmed in Arduino and the graphical interface in Processing.
 
